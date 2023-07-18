@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/Block.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/BlockView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/LayMines.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/MineArea.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/MineGame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/Record.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/扫雷/src/cn/com/mine/ShowRecord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/英雄榜.txt" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/英雄榜.txt" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
